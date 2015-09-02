@@ -1,0 +1,224 @@
+/* 
+   IpCameraClient.strings
+   IpCameraClient
+
+   Created by jiyonglong on 12-5-2.
+   Copyright 2012 __MyCompanyName__. All rights reserved.
+ */
+
+IPCamera = "Camera";
+AddCamera = "Add Camera";
+EditCamera = "Edit Camera" ;
+CameraName = "Name";
+IpAddr = "IpAddr";
+Port = "Port";
+User = "Username";
+Pwd = "Password";
+OK = "OK";
+Cancel = "Cancel";
+SearchCamera = "Search Camera" ;
+Back = "Back";
+Hide = "hide";
+Connecting = "Connecting...";
+Options = "Options";
+Livestream = "Livestream";
+Edit = "Edit";
+Setting = "Camera Setting";
+Delete = "Delete";
+DeviceID = "ID:";
+CameraType = "TYPE:";
+PPPStatus = "Status:" ;
+CameraID = "CameraID" ;
+InputCameraName = "input camera name";
+InputCameraID = "input camera id";
+InputUserName = "input user name";
+InputPassword = "input password";
+CameraInfo = "Camera Information";
+Done = "Done";
+PPPPModeP2P = "p2p connected";
+PPPPModeRelay = "p2p relay";
+PPPPModeUnknown = "unknown";
+PPPPStatusUnknown = "unknown";
+PPPPStatusConnecting = "connecting";
+PPPPStatusInitialing = "initialing";
+PPPPStatusOnline = "on line";
+PPPPStatusConnectFailed = "connect failed";
+PPPPStatusDisconnected = "disconnected";
+PPPPStatusInvalidID = "invalid id";
+PleaseInputCamreraName = "please input camera name";
+PleaseInputCameraID = "please input camera id";
+PleaseInputUserName = "please input user name";
+CameraIsNotOnline = "off line";
+Version = "Version";
+DefaultVideoParams = "default video param";
+UnknownResolution = "unknown resolution";
+PPPPMode = "Mode:";
+PPPPStatusConnectTimeout = "connect timeout";
+RelayModeTimeout = "relay mode, time remains:";
+StrSeconds = "sec";
+ScanDisplayMessage = "Place a QRCode inside the viewfinder rectangle to scan it.";
+ScanQRCode = "Scan QRCode";
+ClickScan = "Scan";
+LiveView = "View";
+Network = "Network";
+WifiSetting = "WIFI Setting";
+WifiList = "Choose WIFI";
+EnterPwd = "Enter Password";
+Loading = "Loading...";
+WillSet = "Will set";
+NotSetting = "not setting";
+About = "About";
+UserSetting = "User Setting";
+TakePictureSuccess = "take picture success";
+UserSetting="User Setting";
+AlarmSetting="Alarm Setting";
+ClockSetting="Time Setting";
+
+UserName = "Username";
+datetimeDeviceTime = "Camera time";
+datetimeDeviceTiming = "User NTP";
+datetimeDeviceTimingServer = "NTP Server";
+datetimeDeviceTimezone = "Time Zone";
+datetimeDeviceTimeLocal = "Sync with local time";
+alarmMotionEnable = "Motion Detect Armed";
+alarmMotionLevel = "Motion Detect Sensibility";
+alarmExtern = "Input Armed";
+alarmExternLevel = "Trigger Level";
+alarmMotionPreset = "Preset Linkage";
+alarmMotionIO = "IO Linkage";
+alarmMotionIOLevel = "Output Level";
+alarmMail = "Send Email";
+alarmPicEnable = "FTP Upload";
+alarmPicTimer = "FTP Upload Interval";
+
+alarm_text_a1 = "High";
+alarm_text_a2 = "Low";
+
+
+datetimeZone0 = "(GMT -11:00) Midway Islands, Samoa Islands";
+datetimeZone1 = "(GMT -10:00) Hawaii";
+datetimeZone2 = "(GMT -09:00) Alaska Standard";
+datetimeZone3 = "(GMT -08:00) Pacific Standard(USA and Canada)";
+datetimeZone4 = "(GMT -07:00) Mountain Standard(USA and Canada)";
+datetimeZone5 = "(GMT -06:00) Central Standard(USA and Canada), Mexico City";
+datetimeZone6 = "(GMT -05:00) Eastern Standard(USA and Canada), Lima, Bogota";
+datetimeZone7 = "(GMT -04:00) Atlantic Standard (Canada), Santiago, La Paz";
+datetimeZone8 = "(GMT -03:30) Newfoundland";
+datetimeZone9 = "(GMT -03:00) Brasilia, Buenos Aires, Georgetown";
+datetimeZone10 = "(GMT -02:00) South Geogia I.";
+datetimeZone11 = "(GMT -01:00) Reykjavik";
+datetimeZone12 = "(GMT) Greenwich mean time; London, Lisbon, Casablanca";
+datetimeZone13 = "(GMT +01:00) Brussels, Paris, Berlin, Rome, Madrid, Stockholm, Beograd, Praha";
+datetimeZone14 = "(GMT +02:00) Athens, Jerusalem, Cairo, Helsinki";
+datetimeZone15 = "(GMT +03:00) Nairobi, Riyadh, Moscow";
+datetimeZone16 = "(GMT +03:30) Tehran";
+datetimeZone17 = "(GMT +04:00) Baku, Tbilisi, Abu Dhabi, Muscat";
+datetimeZone18 = "(GMT +04:30) Kabul";
+datetimeZone19 = "(GMT +05:00) Islamabad, Karachi, Tashkent";
+datetimeZone20 = "(GMT +05:30) Bombay, Calcutta, Madras, New Delhi";
+datetimeZone21 = "(GMT +06:00) Astana, Almaty, Dhaka, Colombo";
+datetimeZone22 = "(GMT +07:00) Astana, Almaty, Dhaka, Colombo";
+datetimeZone23 = "(GMT +08:00) Beijing, Singapore, Taipei";
+datetimeZone24 = "(GMT +09:00) Seoul, Yakutsk, Tokyo";
+datetimeZone25 = "(GMT +09:30) Darwin";
+datetimeZone26 = "(GMT +10:00) Guam, Melbourne, Sydney, Port Moresby, Vladivostok";
+datetimeZone27 = "(GMT +11:00) Magadan, Solomon Islands, New Calenonia";
+datetimeZone28 = "(GMT +12:00) Auckland, Wellington, Fiji Islands";
+
+
+MotionLevelHigh="high";
+MotionLevelMiddle="normal";
+MotionLevelLow="low";
+DropListMotionLevel="Motion Level";
+DropListTriggerLevel="Trigger Level";
+DropListPreset="Preset";
+DropListOutputLevel="Output Level";
+DropListUploadInterval="Upload Interval";
+DropListTimeZone="Time Zone";
+DropListNtpServer="NTP Server";
+
+LAN = "LAN";
+LANSearch = "LAN Search";
+
+Alarm = "Alarm";
+Picture = "Picture";
+Record = "Record";
+Local = "Local";
+Remote = "Remote";
+LocalPic = "Local Pictures";
+SavePictureSuccess = "Save picture to album success" ;
+
+Message= "Message";
+DeletePicture = "Delete the picture ?";
+TouchAddCamera = "Add Camera";
+
+FTPSetting = "FTP Setting";
+FTPServer = "Server" ;
+FTPUser = "User";
+FTPPwd = "Passwrod";
+FTPPort = "Port";
+FTPUploadInterval = "Upload Interval";
+InputFtpServer = "input ftp server";
+InputFtpUser = "input user name";
+InputFtpPwd = "input password";
+MailSetting = "Mail Setting";
+MailSender = "Sender";
+MailSmtpSvr = "SMTP Server";
+MailSmtpPort = "SMTP Port";
+MailAuth = "Auth";
+MailUser = "User Name";
+MailPwd = "Passowrd";
+MailRecv1 = "Receiver1";
+MailRecv2 = "Receiver2";
+MailRecv3 = "Receiver3";
+MailRecv4 = "Receiver4";
+InputMailSender = "input mail sender";
+InputMailServer = "input mail server";
+InputMailUser = "input user name";
+InputMailPwd = "input password";
+InputMailRecv = "input mail receiver";
+alarmRecord = "Alarm Record";
+
+//摄像机上限提示
+cameraNumOut="Numbers fo your cameras is upper limit";
+ingInitCamera="Camera is initializing";
+selectAll="Select All";
+reserveSelect="Reserve Select";
+useradmin="Administrator";
+userOperator="Visitor";
+noadmin="No Administrator";
+
+
+SdcardSetting="SDCard Setting";
+sdcard_total="SD Total(M)";
+sdcard_remain="SD Remainder(M)";
+sdcard_input="SD inserted";
+sdcard_output="SD not inserted";
+sdcard_status="SD Status";
+sdcard_recordtime="Record time(minute)";
+sdcard_fixedtime_record="Timer Recording";
+sdcard_cover_record="Record Coverage";
+sdcard_range="Range 5-120";
+
+play_stop_record_p="Please first stop record video";
+record_filename="FileName: ";
+record_filetime="RecordTime: ";
+PPPPStatusInvalidUserPwd="Invalid User or Pwd";
+filesize="FileSize: ";
+
+
+about_soft_information="Software Information";
+about_server_information="Server Information";
+about_default_server_addr="Restore the default server address";
+about_default_prompt="Server recovery success, after restart to take effect";
+about_server_finish="The server change success, after restart to take effect";
+about_server_prompt="Enter the address of the server";
+
+ftp_uploadtime_prompt="Upload Interval Range 0～3600";
+preset_call="Call";
+preset_set="Set";
+preset="Preset";
+
+
+setuser_nomatch="User name or secret only Numbers or letters";
+
